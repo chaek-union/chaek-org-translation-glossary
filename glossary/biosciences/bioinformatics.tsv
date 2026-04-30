@@ -3,3 +3,31 @@ genome	유전체;지놈
 genome project	지놈 프로젝트
 genomics	유전체학
 genomic science	유전체 과학
+# Sequencing & alignment
+paired-end	페어드 엔드
+single-end	싱글 엔드
+global alignment	전역 정렬
+local alignment	지역 정렬
+de Bruijn graph	드 브라윈 그래프
+de novo assembly	de novo 조립
+duplicate marking	중복 리드 표시
+# Variant & population
+haplotype	일배체형
+linkage disequilibrium	연관 불균형
+variant calling	변이 탐지
+somatic variant	체세포 변이
+germline variant	생식세포 변이
+passenger mutation	중립적 변이
+# Epigenomics & chromatin
+FAIRE-seq	FAIRE-seq
+colocalization analysis	공유 인과 변이 분석
+topologically associating domain; TAD	공간적 상호작용 도메인
+# Transcriptomics
+pseudobulk	슈도벌크
+# Microscopy
+bright-field microscopy	명시야 현미경법
+# Single-cell
+doublet	이중체
+matched tumor-normal sequencing	종양-정상 쌍 시퀀싱
+# Cancer genomics
+kataegis	카타에기스
